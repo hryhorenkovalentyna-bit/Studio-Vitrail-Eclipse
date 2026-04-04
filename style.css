@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background: #ffffff;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #000;
+}
+
+.wrapper {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 40px 20px 120px;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.text-block p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 28px;
+}
+
+.photo {
+  width: 100%;
+  display: block;
+  margin: 60px 0;
+}
+
+footer {
+  margin-top: 80px;
+  font-size: 14px;
+  opacity: 0.6;
+}
